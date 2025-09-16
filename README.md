@@ -3,9 +3,6 @@
 ## 📝 Description
 The **Video Captioning Quality Checker** is a Python-based tool that validates video caption files (e.g., `.srt`).  
 It checks grammar, punctuation, and timing alignment to ensure captions are accurate, readable, and follow accessibility standards.
-
-This project demonstrates essential skills for AI data annotation, NLP basics, and quality assurance for machine learning datasets.
-
 ---
 
 ## ✨ Features
