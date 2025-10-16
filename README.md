@@ -54,12 +54,6 @@ streamlit run dashboard.py
 
 ---
 
-## 📚 Skills Demonstrated
-- **Data Quality Assurance**: Checking accuracy and consistency of captions.
-- **Natural Language Processing**: Grammar and context validation.
-- **Python Scripting**: Automating QA workflows.
-- **Version Control**: Managing project updates with Git.
-- **Optional Web App Development**: Using Streamlit or Gradio for a simple UI.
 
 ---
 
